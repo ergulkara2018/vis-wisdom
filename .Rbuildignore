@@ -1,3 +1,7 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^\.httr-oauth$
+^wiki$
+^raw$
+^tools$
+^CLAUDE\.md$
